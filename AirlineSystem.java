@@ -3,6 +3,7 @@ import java.util.*;
 import java.util.Iterator;
 import java.util.NoSuchElementException;
 
+@SuppressWarnings("unchecked")
 
 public class AirlineSystem
 {
